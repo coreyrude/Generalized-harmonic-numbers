@@ -3,7 +3,9 @@ Week 2 - Conditionals and Loops
 
 
 Assignment details
+
 Write a program GeneralizedHarmonic.java that takes two integer command-line arguments n and r and uses a for loop to compute the nth generalized harmonic number of order r, which is defined by the following formula: H(n,r)=11r+12r+⋯+1nr.
+
 
 For example, H(3,2)=112+122+132=4936≈1.361111.
 ~/Desktop/loops> java GeneralizedHarmonic 1 1
